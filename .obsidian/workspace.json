@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "4c5b09bb69a21428",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0b768cc6ae82e35",
+        "type": "tabs",
+        "dimension": 69.16118421052632,
+        "children": [
+          {
+            "id": "a7f08cc42c0e7aa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Da continuare.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Da continuare"
+            },
+            "group": "28bd3c684e7f2fcc"
+          }
+        ]
+      },
+      {
+        "id": "96f369914afa1420",
+        "type": "tabs",
+        "dimension": 30.838815789473685,
+        "children": [
+          {
+            "id": "51f758494b81427e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Da continuare.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1.2,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6611587736663846,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Grafo di Da continuare"
+            },
+            "group": "28bd3c684e7f2fcc"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "359a0ed27c8624e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "37a268c232d8b100",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e53292551316d38b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "a805cebda2b23c26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "e875482ac64cfa51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.50043487548828
+  },
+  "right": {
+    "id": "03c4603cd29529cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6efa009328f5b893",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61a53a74f7c318f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "24261afd9c621855",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          },
+          {
+            "id": "6cd16dc9cabb72e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "5a59c03f6cd46cbe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "e53292551316d38b",
+  "lastOpenFiles": [
+    "temp/temp sistemi/Stateful Packet Inspection Firewall.md",
+    "temp/temp sistemi/Proxy.md",
+    "temp/temp sistemi/Packet Filter Firewall.md",
+    "temp/temp sistemi/Firewall.md",
+    "temp/temp sistemi/Application Level Firewall.md",
+    "temp/temp ml/Perdita L2.md",
+    "temp/temp ml/Perdita L1.md",
+    "temp/temp ml/Perdita - ML.md",
+    "temp/temp sistemi",
+    "temp/temp ml",
+    "temp",
+    "note/WAN.md",
+    "note/Varianza.md",
+    "note/Unità di misura fondamentali.md",
+    "note/Unità di misura derivate.md",
+    "note/UNI.md",
+    "note/UNI EN ISO 9001 2015.md",
+    "note/UNI 8217.md",
+    "note/Termodinamica.md",
+    "note/Tecniche di campionamento.md",
+    "note/Tecniche - ML.md",
+    "note/Tabelle di frequenza.md",
+    "note/Stimatore.md",
+    "note/Statistica descrittiva.md",
+    "note/Statistica Inferenziale.md",
+    "note/Spunti sul tema dell'immigrazione.md",
+    "note/Sistemi di ML.md",
+    "note/Sistema internazionale di unità di misura.md",
+    "note/Set di dati - ML.md",
+    "note",
+    "moc",
+    "assets/mp3/Amerigo (Remastered 2007).mp3",
+    "assets/mp3",
+    "assets/img/unitàdimisurafondamentali.png",
+    "assets/img/unitàdimisuraderivate.png",
+    "assets/img/spiegazioneunitàboxplot.png",
+    "assets/img/scatterplotesempio.png",
+    "assets/img/perditaesempio.png",
+    "assets/img/iodanielblake.png",
+    "assets/img/ilmarenonbagnanapoli.png",
+    "assets/img/firewall.png",
+    "assets/img/esempiovarianza.png",
+    "assets/img/esempiotabelladifrequenza1.png",
+    "assets/img",
+    "assets",
+    "Senza nome.canvas",
+    "Transport - TCP"
+  ]
+}
