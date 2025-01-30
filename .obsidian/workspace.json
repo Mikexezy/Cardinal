@@ -187,14 +187,23 @@
               "icon": "lucide-list",
               "title": "Struttura"
             }
+          },
+          {
+            "id": "8df1e327f7e2159d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,10 +213,11 @@
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e53292551316d38b",
+  "active": "a7f08cc42c0e7aa6",
   "lastOpenFiles": [
     "temp/temp sistemi/Stateful Packet Inspection Firewall.md",
     "temp/temp sistemi/Proxy.md",
