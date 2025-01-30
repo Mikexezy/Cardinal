@@ -1,6 +1,6 @@
 #### Gestione del progetto
 - Unità 3 Lezione 2
-	- [x] Sicurezza sul lavoro
+	- [ ] Sicurezza sul lavoro
 
 #### Machine Learning
 - Google Crash Course
