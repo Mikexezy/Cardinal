@@ -4,7 +4,7 @@ connections:
 source:
   - https://developers.google.com/machine-learning/crash-course/linear-regression/loss?hl=it
 ---
-La perdità è una media numerica che ci dice quanto siano sbagliate le previsioni del nostro modello, praticamente misura la distanza tra le previsioni del modello e le etichette effettive.
+  La perdità è una media numerica che ci dice quanto siano sbagliate le previsioni del nostro modello, praticamente misura la distanza tra le previsioni del modello e le etichette effettive.
 
 Il nostro modello durante la fase dell'[[Addestramento - ML]] ha come obiettivo quello di minimizzare la perdità al valore più piccolo possibile.
 
@@ -66,3 +66,5 @@ Come possiamo notare:
 	1. È meno sensibile agli outlier, quindi il modello ignorerà anomalie e si concentrerà maggiormente sulla previsione della maggior parte dei dati.
 	2. Gli errori piccoli e grandi vengono pesati in modo uguale.
 	3. Utile se gli outlier sono dovuti a errori di misurazione o sono rumore indesiderato.
+
+Stesso principio vale L1 e L2.

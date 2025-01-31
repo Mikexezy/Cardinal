@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp/temp ml/Perdita - ML.md",
+                "file": "Da continuare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perdita - ML"
+              "title": "Da continuare"
             }
           }
         ]
@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,21 +166,20 @@
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
-      "github-sync:Sync with Remote": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "a7f08cc42c0e7aa6",
   "lastOpenFiles": [
-    "note/Outlier.md",
-    "temp/temp ml/Perdita - ML.md",
-    "esempiomae.png",
-    "esempiomse.png",
-    "temp/temp ml/MSE - Errore quadratico medio.md",
+    "assets/img/esempiomse.png",
     "Da continuare.md",
-    "temp/temp ml/Perdita L2.md",
-    "temp/temp ml/MAE - Errore assoluto medio.md",
-    "temp/temp ml/Perdita L1.md",
+    "note/MAE - Errore assoluto medio.md",
+    "note/Perdita - ML.md",
+    "note/Outlier.md",
+    "assets/img/esempiomae.png",
+    "note/MSE - Errore quadratico medio.md",
+    "note/Perdita L2.md",
+    "note/Perdita L1.md",
     "temp/temp sistemi/Stateful Packet Inspection Firewall.md",
     "temp/temp sistemi/Proxy.md",
     "temp/temp sistemi/Packet Filter Firewall.md",
@@ -202,7 +201,6 @@
     "note/Tabelle di frequenza.md",
     "note/Stimatore.md",
     "note/Statistica descrittiva.md",
-    "note/Statistica Inferenziale.md",
     "note",
     "moc",
     "assets/mp3/Amerigo (Remastered 2007).mp3",

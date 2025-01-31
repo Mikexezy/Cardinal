@@ -4,7 +4,8 @@
 
 #### Machine Learning
 - Google Crash Course
-	- [ ] [Perdita - ML](https://developers.google.com/machine-learning/crash-course/linear-regression/loss?hl=it)
+	- [x] [Perdita - ML](https://developers.google.com/machine-learning/crash-course/linear-regression/loss?hl=it)
+	- [ ] [Discesa del gradiente](https://developers.google.com/machine-learning/crash-course/linear-regression/gradient-descent?hl=it)
 
 #### Sistemi e Reti
 - Firewall
