@@ -9,3 +9,5 @@ La dimensione del batch indica quanti esempi dovrà elaborare prima di effettuar
 Per evitare ciò si utilizzando due tecniche:
 - [[Discesa stocastica del gradiente]]
 - [[Discesa stocastica del gradiente in mini-batch]]
+
+Entrambe queste tecniche aggiungono del rumore nella curva della perdità, ma non sempre il rumore è un fattore negativo che va eliminato.
