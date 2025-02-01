@@ -4,7 +4,7 @@ connections:
 source:
   - https://developers.google.com/machine-learning/crash-course/linear-regression?hl=it
 ---
-Tecnica utilizzata per trovare le relazioni matematiche che collegano le features alle label (caratteristiche ed etichette).
+Tecnica utilizzata per risolvere problemi di [[Regressione]] e identificare le relazioni matematiche che collegano le features alle label (caratteristiche ed etichette).
 
 ---
 

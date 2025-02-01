@@ -4,7 +4,7 @@ connections:
 source:
   - https://developers.google.com/machine-learning/crash-course/linear-regression?hl=it
 ---
-#moc
+# Indice
 ```dataview
 list from [[]]
 ```
