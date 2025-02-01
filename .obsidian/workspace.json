@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dimensione del batch.md",
+                "file": "Discesa stocastica del gradiente in mini-batch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dimensione del batch"
+              "title": "Discesa stocastica del gradiente in mini-batch"
             }
           }
         ]
@@ -170,10 +170,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19a7fe61d4a5cf71",
+  "active": "e53292551316d38b",
   "lastOpenFiles": [
-    "temp/temp ml/Iperparametri - ML.md",
+    "assets/img/discesastocasticadelgradienteinminibatch.png",
+    "Discesa stocastica del gradiente.md",
+    "Discesa stocastica del gradiente in mini-batch.md",
     "Dimensione del batch.md",
+    "assets/img/discesastocasticadelgradiente.png",
+    "temp/temp ml/Iperparametri - ML.md",
     "note/Stateful Packet Inspection Firewall.md",
     "Da continuare.md",
     "note/Tasso di apprendimento.md",
@@ -206,16 +210,12 @@
     "temp",
     "note/WAN.md",
     "note/Varianza.md",
-    "note/Unità di misura fondamentali.md",
-    "note/Unità di misura derivate.md",
-    "note/UNI.md",
     "note",
     "moc",
     "assets/mp3/Amerigo (Remastered 2007).mp3",
     "assets/mp3",
     "assets/img/unitàdimisurafondamentali.png",
     "assets/img/unitàdimisuraderivate.png",
-    "assets/img/spiegazioneunitàboxplot.png",
     "assets/img",
     "assets",
     "Senza nome.canvas"
