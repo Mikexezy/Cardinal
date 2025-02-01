@@ -19,4 +19,4 @@
 
 #### Italiano
 - Pirandello
-	- [ ] [[Teatro Pirandelliano]
+	- [ ] [[Teatro Pirandelliano]]

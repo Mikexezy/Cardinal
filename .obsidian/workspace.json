@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teatro Pirandelliano.md",
+                "file": "Dimensione del batch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teatro Pirandelliano"
+              "title": "Dimensione del batch"
             }
           }
         ]
@@ -172,13 +172,23 @@
   },
   "active": "19a7fe61d4a5cf71",
   "lastOpenFiles": [
-    "Da continuare.md",
-    "Teatro Pirandelliano.md",
     "temp/temp ml/Iperparametri - ML.md",
+    "Dimensione del batch.md",
+    "note/Stateful Packet Inspection Firewall.md",
+    "Da continuare.md",
+    "note/Tasso di apprendimento.md",
+    "assets/img/tassodiapprendimentoaltoesempio.png",
+    "assets/img/tassodiapprendimentobassoesempio.png",
+    "note/Parametri - ML.md",
+    "temp/temp italiano",
+    "note/Proxy.md",
+    "note/Packet Filter Firewall.md",
+    "temp/temp sistemi/Firewall.md",
+    "note/Application Level Firewall.md",
+    "temp/temp italiano/Teatro Pirandelliano.md",
     "note/Cosa vuol dire misurare.md",
     "note/Pirandello.md",
     "note/Direzione della perdita.md",
-    "note/Parametri - ML.md",
     "note/Discesa del gradiente.md",
     "note/Perdita - ML.md",
     "assets/img/discesadelgradienteschema.png",
@@ -191,11 +201,6 @@
     "note/MSE - Errore quadratico medio.md",
     "note/Perdita L2.md",
     "note/Perdita L1.md",
-    "temp/temp sistemi/Stateful Packet Inspection Firewall.md",
-    "temp/temp sistemi/Proxy.md",
-    "temp/temp sistemi/Packet Filter Firewall.md",
-    "temp/temp sistemi/Firewall.md",
-    "temp/temp sistemi/Application Level Firewall.md",
     "temp/temp sistemi",
     "temp/temp ml",
     "temp",
@@ -204,8 +209,6 @@
     "note/Unità di misura fondamentali.md",
     "note/Unità di misura derivate.md",
     "note/UNI.md",
-    "note/UNI EN ISO 9001 2015.md",
-    "note/UNI 8217.md",
     "note",
     "moc",
     "assets/mp3/Amerigo (Remastered 2007).mp3",
@@ -213,11 +216,8 @@
     "assets/img/unitàdimisurafondamentali.png",
     "assets/img/unitàdimisuraderivate.png",
     "assets/img/spiegazioneunitàboxplot.png",
-    "assets/img/scatterplotesempio.png",
-    "assets/img/perditaesempio.png",
     "assets/img",
     "assets",
-    "Senza nome.canvas",
-    "Transport - TCP"
+    "Senza nome.canvas"
   ]
 }
