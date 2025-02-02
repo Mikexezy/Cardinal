@@ -14,7 +14,7 @@ La discesa stocastica del gradiente, SGD, utilizza una dimensione del batch ugua
 
 #### Cosa cambia ?
 
-Come possiamo notare, l'uso di un approccio stocastico, aggiunge nella nostra curva di [[Perdita - ML]] un evidente rumore. 
+Come possiamo notare, l'uso di un approccio stocastico, aggiunge nella nostra curva di [[Perdita - Regressione Lineare]] un evidente rumore. 
 
 > Non solo in prossimità della convergenza
 

@@ -1,0 +1,4 @@
+---
+connections:
+  - "[[Regressione logistica]]"
+---

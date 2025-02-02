@@ -14,3 +14,14 @@ Un esempio classico è proprio la classificazione delle email come "spam" o "non
 2. La regressione logistica introduce una funzione speciale chiamata [[Funzione sigmoidea]]. Questa funzione "schiaccia" il valore numerico prodotto dal modello lineare in un intervallo compreso tra 0 e 1. Questo valore può essere interpretato come la probabilità che l'input appartenga a una delle due categorie.
     
 3. Per decidere a quale categoria assegnare l'input, si introduce una soglia di classificazione. Se la probabilità calcolata dalla funzione sigmoide è maggiore o uguale a 0.5, l'input viene classificato in una categoria (ad esempio, "spam"), altrimenti viene classificato nell'altra categoria (ad esempio, "non spam").
+
+---
+
+Queste non sono solamente le uniche differenze che distinguono un modello di regressione logistica da un modello di regressione lineare, un modello logistico differisce anche nel 
+calcolo della perdita, e dall'aggiunta di una funzione in grado di prevenire l'[[Overfitting]].
+
+- [[Log Loss]]
+- [[Regolarizzazione]]
+
+
+

@@ -9,7 +9,7 @@ La discesa del gradiente è una tecnica matematica iterativa che serve a trovare
 ---
 #### Passaggi
 
-1. Calcola la [[Perdita - ML]] utilizzando pesi e bias.
+1. Calcola la [[Perdita - Regressione Lineare]] utilizzando pesi e bias.
 2. Calcola la [[Direzione della perdita]] cui cambiare pesi e bias. 
 3. Sposta i pesi e il bias di una piccola quantità.
 4. Ricomincia da capo.

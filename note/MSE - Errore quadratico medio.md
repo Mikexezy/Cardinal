@@ -1,6 +1,6 @@
 ---
 connections:
-  - "[[Perdita - ML]]"
+  - "[[Perdita - Regressione Lineare]]"
 source:
   - https://developers.google.com/machine-learning/crash-course/linear-regression/loss?hl=it
 ---
