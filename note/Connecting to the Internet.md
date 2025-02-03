@@ -1,6 +1,6 @@
 ---
 connections:
-  - "[[Inglese]]"
+  - "[[Letture Inglese Tecnico]]"
 source:
   - Prof. Lucia Colore
 ---
