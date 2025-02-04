@@ -24,6 +24,7 @@ La perdità misura effettivamente la differenza tra i valori previsti e quelli e
 # Tipologie di perdità
 
 - [[Perdita L1]]
+- [[Fioraio]]
 - [[Perdita L2]]
 - [[MAE - Errore assoluto medio]]
 - [[MSE - Errore quadratico medio]]
