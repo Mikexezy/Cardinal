@@ -1,7 +1,8 @@
 ---
 connections:
-  - "[[Pirandello]]"
+  - "[[Luigi Pirandello]]"
 source:
+  - Prof. Rosetta Scarsi
 ---
 Dal 1915 inizia a dedicarsi al teatro, cambiando modalità fra il 1916 e 1918.
 #### Compone
