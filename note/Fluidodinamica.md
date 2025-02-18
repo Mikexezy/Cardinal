@@ -1,3 +1,9 @@
+---
+connections:
+  - "[[Fisica]]"
+source:
+  - Prof. Alessia Caputo
+---
 Pressione rapporto tra F e S
 $$P=\frac{forza}{superfice}$$
 

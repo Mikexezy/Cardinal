@@ -4,12 +4,18 @@ connections:
 source:
   - Prof. Rosetta Scarsi
 ---
-Dal 1915 inizia a dedicarsi al teatro, cambiando modalità fra il 1916 e 1918.
-#### Compone
-- [[Il berretto a sonagli - Pirandello]]
-- [[Così è - Pirandello]] ([[Metateatro]])
-- [[Il piacere dell'onesta - Pirandello]]
-- [[Il giuco delle parti - Pirandello]]
+Dal 1910 inizia a dedicarsi al teatro, con le prime opere [[La morsa - Luigi Pirandello]] e [[Lumìe di Sicilia - Luigi Pirandello]] che andranno in scena presso il Teatro Minimo di Nino Martoglio a Roma.
+Da questo momento in poi attraverserà diverse fasi stilistiche
+
+---
+
+# Indice
+1. [[Teatro Borghese - Luigi Pirandello]]
+2. [[Teatro del Grottesco - Luigi Pirandello]]
+
+
+
+
 
 #### Su di lui influisce
 - [[Teatro verista]] (più di tipo realista)
@@ -17,7 +23,7 @@ Dal 1915 inizia a dedicarsi al teatro, cambiando modalità fra il 1916 e 1918.
 - [[Teatro borghese]] (maggiore influenza)
 
 #### Fasi
-1. [[Verismo regionale]] 
+3. [[Verismo regionale]] 
 
 Pirandello nel suo modo di fare teatro porta sulla scena i seguenti temi:
 - maschera
