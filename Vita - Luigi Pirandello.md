@@ -7,7 +7,7 @@ source:
 ---
 #### Origini e contesto familiare
 ---
-[[Luigi Pirandello]] nasce nel 1867 a [[Girgenti]] (l'attuale [[Agrigento]]), in un casale denominato "[[Il Caos]]", utilizzato per sfuggire a un'epidemia di [[Colera]]. Il clima familiare è ricco di ideali patriottici ([[Patriottismo]]) e di tradizioni [[Antiborboniche]]. Il padre, Stefano, si occupava della gestione di diverse miniere di zolfo ed era un uomo dal temperamento aggressivo e violento, tanto da far percepire al figlio la famiglia come una vera trappola.
+Luigi Pirandello nasce nel 1867 a Girgenti (l'attuale Agrigento), in un casale denominato "Il Caos", utilizzato per sfuggire a un'epidemia di Colera. Il clima familiare è ricco di ideali patriottici ([[Patriottismo]]) e di tradizioni [[Antiborboniche]]. Il padre, Stefano, si occupava della gestione di diverse miniere di zolfo ed era un uomo dal temperamento aggressivo e violento, tanto da far percepire al figlio la famiglia come una vera trappola.
 
 > *"Una ragnatela che soffoca le aspirazioni individuali, sacrificandole sull'altare delle convenzioni borghesi."*
 
@@ -15,7 +15,7 @@ source:
 
 #### Infanzia, formazione e primi esperimenti artistici
 ---
-Durante la sua infanzia, Pirandello assorbe tutti gli ideali fondamentali della tradizione religiosa siciliana, grazie a [[Maria Stella]] e alle sue favole, ricche di superstizioni, [[Misticismo]] e credenze magico-popolari. L'istruzione elementare, invece, viene affidata a un precettore privato, e il giovane Pirandello si mostra subito attratto dal mondo del teatro.
+Durante la sua infanzia, Pirandello assorbe tutti gli ideali fondamentali della tradizione religiosa siciliana. L'istruzione elementare, invece, viene affidata a un precettore privato, e il giovane Pirandello si mostra subito attratto dal mondo del teatro.
 
 Nel 1879 la famiglia si trasferisce a Palermo, dove Pirandello ottiene il permesso di frequentare il ginnasio anziché le scuole tecniche; nello stesso anno si iscrive contemporaneamente alle facoltà di Lettere e di Legge. Questo lo introdurrà agli ambienti intellettuali che sostenevano la formazione dei [[Fasci Siciliani]].
 
