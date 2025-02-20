@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6afb7467074139f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "riepilogo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "riepilogo"
-            }
-          },
-          {
-            "id": "fe785687ea6064a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "riepilogo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "riepilogo"
-            }
-          },
-          {
             "id": "c9970a07578c5d7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "riepilogo.md",
+                "file": "temp/La poetica dell'umorismo - Luigi Pirandello.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "riepilogo"
+              "title": "La poetica dell'umorismo - Luigi Pirandello"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,32 +172,32 @@
   },
   "active": "c9970a07578c5d7e",
   "lastOpenFiles": [
-    "Lezione sql per salvatore.md",
+    "Domande Italiano e Storia.md",
+    "temp/Uno, nessuno, centomila - Pirandello.md",
     "riepilogo.md",
-    "La poetica dell'umorismo - Luigi Pirandello.md",
-    "Vitalismo - Luigi Pirandello.md",
-    "Teatro del Grottesco - Luigi Pirandello.md",
+    "temp/Il fu Mattia Pascal - Pirandello.md",
+    "Da continuare.md",
+    "temp/Fascismo.md",
+    "temp/Vitalismo - Luigi Pirandello.md",
+    "Umorismo.md",
+    "temp/Lezione sql per salvatore.md",
+    "temp/La poetica dell'umorismo - Luigi Pirandello.md",
+    "temp/Teatro del Grottesco - Luigi Pirandello.md",
     "note/Teatro Pirandelliano.md",
-    "Teatro Borghese - Luigi Pirandello.md",
-    "Uno, nessuno, centomila - Pirandello.md",
-    "Vita - Luigi Pirandello.md",
+    "temp/Teatro Borghese - Luigi Pirandello.md",
+    "temp/Vita - Luigi Pirandello.md",
     "note/Fluidodinamica.md",
     "note/Termodinamica.md",
     "note/Principi della Termodinamica.md",
-    "L'esclusa - Luigi Pirandello.md",
+    "temp/L'esclusa - Luigi Pirandello.md",
     "note/Epoche.md",
-    "Italo Svevo.md",
+    "temp/Italo Svevo.md",
     "La morsa - Luigi Pirandello.md",
-    "Opere - Luigi Pirandello.md",
-    "Le novelle - Luigi Pirandello.md",
+    "temp/Opere - Luigi Pirandello.md",
+    "temp/Le novelle - Luigi Pirandello.md",
     "note/Luigi Pirandello.md",
-    "I romanzi - Luigi Pirandello.md",
-    "Il fu Mattia Pascal - Pirandello.md",
-    "Novelle per un anno - Luigi Pirandello.md",
-    "Le poesie.md",
-    "Influenze nella poesia - Luigi Pirandello.md",
-    "Le poesie - Luigi Pirandello.md",
-    "Domande Italiano e Storia.md",
+    "temp/I romanzi - Luigi Pirandello.md",
+    "temp/Novelle per un anno - Luigi Pirandello.md",
     "assets/img/secondaleggedigaylussac.png",
     "assets/img/primaleggedigaylussac.png",
     "assets/img/leggediboyle.png",

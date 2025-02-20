@@ -42,4 +42,4 @@ La vita è formata da 3 corde
 - Corda seria, mantenere un equilibrio attraverso il ragionamento (evitare di vendicare un adulterio)
 - Corda pazza, far saltare i nostri schemi (moglie che vuole rendere tutto pubblico), con il rischio di restare esclusi
 
-[[Relativismo psicologico]] (non esiste una verità ma tante, [[uno, nessuno, centomila - Pirandello]])
+[[Relativismo psicologico]] (non esiste una verità ma tante, [[Uno, nessuno, centomila - Pirandello]])
