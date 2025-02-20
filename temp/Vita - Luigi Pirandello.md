@@ -27,7 +27,7 @@ Finalmente, lontano dalla realtà di Girgenti, Pirandello inizia a frequentare i
 ---
 Nel 1887 giunge a Roma e, dopo un contrasto con il rettore, è costretto a richiedere il trasferimento presso un altro ateneo; sceglierà, infatti, Bonn, in Germania. Nel 1889 termina gli studi e, due anni dopo, si laurea in [[Filologia Romanza]]. Durante questo periodo in Germania, si innamora di [[Jenny Schulz-Lander]] ed entra in contatto con la poesia e la cultura tedesca.
 
-Esistono due interpretazioni riguardo all'eredità della cultura tedesca in Pirandello: da una parte viene menzionato il concetto di [[Umorismo]]; dall'altra, l'influenza si riduce a un rigoroso percorso universitario specialistico.
+Esistono due interpretazioni riguardo all'eredità della cultura tedesca in Pirandello: da una parte viene menzionato il concetto di [[La poetica dell'umorismo - Luigi Pirandello]]; dall'altra, l'influenza si riduce a un rigoroso percorso universitario specialistico.
 
 Nel 1893, dopo aver abbandonato la relazione ufficiale con la cugina [[Lina Pirandello]] in Sicilia, si trasferisce a Roma, città che colpisce profondamente lo scrittore e rappresenta per lui un vero scrigno del glorioso passato. In questo periodo, l'amicizia con lo scrittore [[Luigi Capuana]] si rivela fondamentale, spingendolo a dedicarsi alla scrittura. Inizierà così a collaborare con alcune riviste importanti, come [[Il Marzocco]]; tuttavia, la sua attenzione si concentrerà soprattutto sulla narrativa, tanto da portarlo a scrivere il suo primo romanzo, [[L'esclusa - Luigi Pirandello]].
 
@@ -50,7 +50,7 @@ Solo nel 1919, quando Pirandello capirà che nulla può fare contro un disturbo 
 All'inizio della prima guerra mondiale Pirandello decide di appoggiare l'[[Interventismo]], vedendo il conflitto come un naturale compimento dei moti risorgimentali.
 Il figlio Stefano nel 1915 parte volontario per la guerra, ma verrà subito catturato dagli austriaci.
 Anche l'altro figlio Fausto verrà chiamato alle armi, e anche lui verrà subito congedato per malattia.
-A queste preoccupazioni si aggiungerà anche al morte della madre.
+A queste preoccupazioni si aggiungerà anche la morte della madre.
 
 Da questo momento in poi la composizione teatrale prenderà il sopravvento, e con la pubblicazione di [[Sei personaggi in cerca d'autore]], la sua fama, varcherà i confini nazionali ottenendo successo a Londra, New York e Parigi.
 

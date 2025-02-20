@@ -13,27 +13,6 @@ Da questo momento in poi attraverserà diverse fasi stilistiche
 1. [[Teatro Borghese - Luigi Pirandello]]
 2. [[Teatro del Grottesco - Luigi Pirandello]]
 
-
-
-
-
-#### Su di lui influisce
-- [[Teatro verista]] (più di tipo realista)
-- [[Teatro D'annunziano]]
-- [[Teatro borghese]] (maggiore influenza)
-
-#### Fasi
-3. [[Verismo regionale]] 
-
-Pirandello nel suo modo di fare teatro porta sulla scena i seguenti temi:
-- maschera
-- convenzioni sociali
-
-2 Autori avranno una grande influenza
-- [[Angelo ]]
-
-[[Teatro del grottesco]] ([[Maschere nude - Pirandello]])
-
 Ciampa disposto ad accettare le corna della moglie con il suo principale (coglione)
 La moglie invece vuole rendere pubblica la relazione, e Ciampa si vede costretto a rappresentare il marito geloso e vendicarsi.
 Se la moglie però dice di essere pazza questo non accade.
