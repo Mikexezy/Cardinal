@@ -8,6 +8,7 @@ The broadband access and generally the extension of the internet increase the cr
 [[Malware]] is the general terms to describe a malicious software to illegally steal the people data, especially via e-mail, online services, peer-to-peer file sharing and instant message.
 Some type of malware can steal and erase data from disk, or disable a computer.
 
+We have different type online dangers:
 # Virus
 ---
 It's called virus, any program that infiltrates a computer and causes it malfunction

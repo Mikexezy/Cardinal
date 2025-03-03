@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "inetto ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -24,14 +24,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.500067695640401,
-  "repelStrength": 20,
+  "centerStrength": 0.596229352829678,
+  "repelStrength": 10.536149471974,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0128817670329764,
-  "close": false
+  "scale": 2.1035523931988585,
+  "close": true
 }
