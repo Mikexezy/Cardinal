@@ -4,84 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "f367eded2f59cd8f",
+        "id": "cb6c995cf4acef7c",
         "type": "tabs",
         "children": [
           {
-            "id": "fd173ec5a87c9b07",
+            "id": "4cf710bd978a5b12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/Connecting to the Internet.md",
+                "file": "note/Giuseppe Ungaretti.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Connecting to the Internet"
+              "title": "Giuseppe Ungaretti"
             }
           },
           {
-            "id": "1783d62cd9b6d71d",
+            "id": "1e23006bee19cc7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "moc/Gestione del progetto e organizzazione d'impresa.md",
+                "file": "note/Equazioni differenziali di primo ordine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gestione del progetto e organizzazione d'impresa"
-            },
-            "group": "95f537ef9925ce81"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "6e96306ca0990c2c",
-        "type": "tabs",
-        "children": [
+              "title": "Equazioni differenziali di primo ordine"
+            }
+          },
           {
-            "id": "7e2ec156d5422f43",
+            "id": "ce4db4b840517421",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "moc/Gestione del progetto e organizzazione d'impresa.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
+                "file": "note/Equazioni differenziali di primo ordine.md",
+                "mode": "source",
+                "source": false
               },
+              "icon": "lucide-file",
+              "title": "Equazioni differenziali di primo ordine"
+            }
+          },
+          {
+            "id": "f93fcf9fc4f3ce7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equazioni differenziali a coefficienti costanti.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Equazioni differenziali a coefficienti costanti"
+            }
+          },
+          {
+            "id": "f3f8f404ca21e3cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/La qualità in azienda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La qualità in azienda"
+            }
+          },
+          {
+            "id": "7e5ec5a155d42028",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
               "icon": "lucide-git-fork",
-              "title": "Grafo di Gestione del progetto e organizzazione d'impresa"
-            },
-            "group": "95f537ef9925ce81"
+              "title": "Vista grafo"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -230,44 +237,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1783d62cd9b6d71d",
+  "active": "7e5ec5a155d42028",
   "lastOpenFiles": [
-    "note/Online dangers.md",
-    "note/Connecting to the Internet.md",
-    "moc/Italiano.md",
-    "Dial Up connection.md",
-    "note/Letture Inglese Tecnico.md",
-    "Sicurezza sul lavoro.md",
-    "La sicurezza in azienda.md",
-    "Danno - Gestione.md",
-    "Rischio - Gestione.md",
-    "Pericolo - Gestione.md",
-    "riepilogo.md",
-    "Domande Italiano e Storia.md",
-    "Teorema di Guldino.md",
-    "note/Risk based thinking.md",
-    "Software Engineering.md",
+    "Equazioni differenziali a coefficienti costanti.md",
+    "Senza nome.md",
     "Da continuare.md",
-    "temp/Italo Svevo.md",
-    "temp/Vitalismo - Luigi Pirandello.md",
-    "temp/Teatro Borghese - Luigi Pirandello.md",
-    "note/Teatro Pirandelliano.md",
-    "temp/Vita - Luigi Pirandello.md",
-    "temp/Teatro del Grottesco - Luigi Pirandello.md",
-    "temp/Storia.md",
-    "temp/La poetica dell'umorismo - Luigi Pirandello.md",
-    "temp/Uno, nessuno, centomila - Pirandello.md",
-    "temp/Il fu Mattia Pascal - Pirandello.md",
+    "note/La sicurezza in azienda.md",
+    "Senza nome 1.md",
+    "note/La qualità in azienda.md",
+    "note/Equazioni differenziali di primo ordine.md",
+    "note/Diagramma di Gantt.md",
+    "note/Giuseppe Ungaretti.md",
+    "note/Problema di Cauchy.md",
+    "note/Il progetto e le sue fasi.md",
+    "note/Equazioni Differenziali.md",
+    "note/Equazioni differenziabili a variabili separabili.md",
+    "note/Organizzazione della prevenzione aziendale.md",
+    "note/Interrogazione.md",
+    "note/Fattori di rischio e misure di tutela.md",
+    "assets/img/processodicertificazione.png",
+    "note/Parole chiave.md",
+    "assets/img/suddivisionesegnaleticadisicurezza.png",
+    "note/Fasci di combattimento.md",
+    "Danno - Gestione.md",
+    "Domande Italiano e Storia.md",
+    "note/Mussolini interrogazione.md",
+    "note/Patti Lateranensi.md",
+    "note/Teorema di Guldino.md",
+    "Pericoli e Rischi negli ambienti di lavoro.md",
+    "Pericolo - Gestione.md",
+    "Rischio - Gestione.md",
+    "assets/img/suddivisionesostanzechimiche.png",
+    "assets/img/tabelladeirischiR.png",
+    "assets/img/tipidiprevenzione.png",
+    "assets/img/scaladelleprobabilitagestione.png",
+    "assets/img/scaladellagravita.png",
     "assets/img/secondaleggedigaylussac.png",
     "assets/img/primaleggedigaylussac.png",
     "assets/img/leggediboyle.png",
-    "assets/img/formulagasperfetti.png",
-    "assets/img/formulaentropia.png",
-    "assets/img/primoprincipiotermodinamica.png",
-    "assets/img/differenzaditemperaturaformula.png",
-    "assets/img/temperaturadiequilibrio.png",
-    "assets/img/firewall.png",
-    "assets/img/problemadellincontro.png",
     "temp/temp fisica",
     "temp/temp storia",
     "temp/temp italiano",
