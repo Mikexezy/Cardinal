@@ -8,63 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4cf710bd978a5b12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/Giuseppe Ungaretti.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Giuseppe Ungaretti"
-            }
-          },
-          {
-            "id": "1e23006bee19cc7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/Equazioni differenziali di primo ordine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Equazioni differenziali di primo ordine"
-            }
-          },
-          {
-            "id": "ce4db4b840517421",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/Equazioni differenziali di primo ordine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Equazioni differenziali di primo ordine"
-            }
-          },
-          {
-            "id": "f93fcf9fc4f3ce7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equazioni differenziali a coefficienti costanti.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Equazioni differenziali a coefficienti costanti"
-            }
-          },
-          {
-            "id": "f3f8f404ca21e3cc",
+            "id": "4e55bbab4c99fcad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,19 +20,8 @@
               "icon": "lucide-file",
               "title": "La qualità in azienda"
             }
-          },
-          {
-            "id": "7e5ec5a155d42028",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,24 +170,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e5ec5a155d42028",
+  "active": "4e55bbab4c99fcad",
   "lastOpenFiles": [
+    "Unità 3 - Gestione.md",
     "Equazioni differenziali a coefficienti costanti.md",
-    "Senza nome.md",
-    "Da continuare.md",
-    "note/La sicurezza in azienda.md",
-    "Senza nome 1.md",
-    "note/La qualità in azienda.md",
     "note/Equazioni differenziali di primo ordine.md",
-    "note/Diagramma di Gantt.md",
     "note/Giuseppe Ungaretti.md",
+    "note/Fattori di rischio e misure di tutela.md",
+    "note/Organizzazione della prevenzione aziendale.md",
+    "note/La sicurezza in azienda.md",
+    "note/La qualità in azienda.md",
+    "moc/Gestione del progetto e organizzazione d'impresa.md",
+    "Da continuare.md",
+    "Senza nome 1.md",
+    "note/Diagramma di Gantt.md",
     "note/Problema di Cauchy.md",
     "note/Il progetto e le sue fasi.md",
     "note/Equazioni Differenziali.md",
     "note/Equazioni differenziabili a variabili separabili.md",
-    "note/Organizzazione della prevenzione aziendale.md",
     "note/Interrogazione.md",
-    "note/Fattori di rischio e misure di tutela.md",
     "assets/img/processodicertificazione.png",
     "note/Parole chiave.md",
     "assets/img/suddivisionesegnaleticadisicurezza.png",
@@ -266,7 +200,6 @@
     "note/Teorema di Guldino.md",
     "Pericoli e Rischi negli ambienti di lavoro.md",
     "Pericolo - Gestione.md",
-    "Rischio - Gestione.md",
     "assets/img/suddivisionesostanzechimiche.png",
     "assets/img/tabelladeirischiR.png",
     "assets/img/tipidiprevenzione.png",

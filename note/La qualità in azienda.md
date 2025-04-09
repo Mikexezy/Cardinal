@@ -1,6 +1,6 @@
 ---
 connections:
-  - "[[Gestione del progetto e organizzazione d'impresa]]"
+  - "[[Unità 3 - Gestione]]"
 source:
   - Prof. Denise Maria Cacciato
 ---
