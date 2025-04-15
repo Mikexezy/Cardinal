@@ -7,7 +7,6 @@ source:
 La norma è un documento prodotto grazie al consenso di tutte le parti interessate, viene approvato da un organismo riconosciuto, che fornisce linee guida e regole relative a determinare delle attività o i loro risultati.
 
 Le norme si possono distinguere in:
-
 - Norma Internazionale ( ISO )
 - Norma Europea ( EN )
 - Norma Nazionale ( UNI )
