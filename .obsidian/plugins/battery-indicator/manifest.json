@@ -1,0 +1,10 @@
+{
+	"id": "battery-indicator",
+	"name": "Battery Indicator",
+	"version": "1.0.2",
+	"minAppVersion": "0.15.0",
+	"description": "Displays current battery level in the status bar.",
+	"author": "Kacper Darowski",
+	"authorUrl": "https://opisek.net/",
+	"isDesktopOnly": true
+}

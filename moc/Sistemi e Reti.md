@@ -1,6 +1,6 @@
 ---
 connections:
-  - "[[Computer Science]]"
+  - "[[Superiori]]"
 source:
 ---
 #moc

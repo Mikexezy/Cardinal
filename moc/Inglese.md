@@ -1,6 +1,6 @@
 ---
 connections:
-  - "[[Cardinal]]"
+  - "[[Superiori]]"
 source:
   - Prof. Lucia Colore
 ---

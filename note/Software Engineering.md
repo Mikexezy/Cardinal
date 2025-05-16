@@ -1,6 +1,6 @@
 ---
 connections:
-  - "[[Computer Science]]"
+  - "[[Informatica]]"
 source:
   - Prof. Giuseppe Tumminelli
 ---

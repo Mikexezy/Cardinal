@@ -22,21 +22,73 @@
             }
           },
           {
+            "id": "b7e1705cfee0dd20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seconda Guerra Mondiale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seconda Guerra Mondiale"
+            }
+          },
+          {
+            "id": "f412f1b22bff5dba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seconda Guerra Mondiale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seconda Guerra Mondiale"
+            }
+          },
+          {
+            "id": "05651a3d0d6032aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quasimodo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quasimodo"
+            }
+          },
+          {
+            "id": "e03399b41b69f8ba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          },
+          {
             "id": "a079721ea97288f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/Equazioni differenziali a coefficienti costanti.md",
+                "file": "Testo argomentativo Incel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equazioni differenziali a coefficienti costanti"
+              "title": "Testo argomentativo Incel"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -68,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "storia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,36 +237,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a079721ea97288f4",
+  "active": "e03399b41b69f8ba",
   "lastOpenFiles": [
+    "Seconda Guerra Mondiale.md",
     "Testo argomentativo Incel.md",
+    "pc/Cardinal.md",
+    "pc",
+    "pc/Superiori.md",
+    "note/Mussolini interrogazione.md",
+    "Salvatore che non se la fida di informatica.md",
+    "temp/Storia.md",
+    "moc/Statistica.md",
+    "moc/Sistemi e Reti.md",
+    "moc/Italiano.md",
+    "moc/Inglese.md",
+    "moc/Informatica.md",
+    "moc/Gestione del progetto e organizzazione d'impresa.md",
+    "moc/Fisica.md",
+    "note/Machine Learning.md",
+    "Inf.md",
+    "note/Software Engineering.md",
+    "moc/Aspirazione futura.md",
+    "Quasimodo.md",
+    "Ermetismo.md",
+    "Database.md",
+    "Da continuare.md",
+    "note/Pon Informatica Lez. 2.md",
     "note/Equazioni differenziali a coefficienti costanti.md",
     "note/Organizzazione della prevenzione aziendale.md",
-    "note/Unità 3 - Gestione.md",
-    "note/Fattori di rischio e misure di tutela.md",
-    "note/La sicurezza in azienda.md",
-    "note/La qualità in azienda.md",
-    "note/UNI EN ISO 9001 2015.md",
-    "note/Risk based thinking.md",
-    "note/Equazioni differenziali di primo ordine.md",
-    "note/Giuseppe Ungaretti.md",
-    "moc/Gestione del progetto e organizzazione d'impresa.md",
-    "Da continuare.md",
-    "Senza nome 1.md",
-    "note/Diagramma di Gantt.md",
-    "note/Problema di Cauchy.md",
-    "note/Il progetto e le sue fasi.md",
-    "note/Equazioni Differenziali.md",
-    "note/Equazioni differenziabili a variabili separabili.md",
-    "note/Interrogazione.md",
     "assets/img/processodicertificazione.png",
-    "note/Parole chiave.md",
     "assets/img/suddivisionesegnaleticadisicurezza.png",
-    "note/Fasci di combattimento.md",
-    "Danno - Gestione.md",
-    "Domande Italiano e Storia.md",
-    "note/Mussolini interrogazione.md",
-    "note/Patti Lateranensi.md",
     "assets/img/suddivisionesostanzechimiche.png",
     "assets/img/tabelladeirischiR.png",
     "assets/img/tipidiprevenzione.png",
@@ -232,7 +284,6 @@
     "note",
     "moc",
     "assets/mp3/Amerigo (Remastered 2007).mp3",
-    "assets/mp3",
     "Senza nome.canvas"
   ]
 }
