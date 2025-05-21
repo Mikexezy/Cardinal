@@ -1,4 +1,10 @@
 [
   "dataview",
-  "obsidian-git"
+  "obsidian-git",
+  "battery-indicator",
+  "obsidian-paste-image-rename",
+  "crumbs-obsidian",
+  "writing-goals",
+  "obsidian-tasks-plugin",
+  "omnisearch"
 ]

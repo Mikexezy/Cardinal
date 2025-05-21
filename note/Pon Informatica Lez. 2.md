@@ -1,7 +1,6 @@
 ---
 connections:
   - "[[Database]]"
-  - "[[Apprendimento supervisionato]]"
 source:
   - Prof. Manuela Musumeci
   - Prof. Fabio Capraro
